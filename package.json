@@ -1,0 +1,25 @@
+{
+  "name": "clinica",
+  "version": "1.0.0",
+  "description": "Una base de datos que se va a usar",
+  "main": "clinica_consulta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test_sql"
+  },
+  "keywords": [
+    "baseDeDatos",
+    "conexion",
+    "Datos",
+    "Consultas"
+  ],
+  "author": "Vera Ramiro Mateo",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
