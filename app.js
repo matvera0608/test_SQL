@@ -32,6 +32,6 @@ function calcular(algúnCálculo, a, b)
 console.log(info())
 
 calcular("sumar", 6, 6)
-calcular("restar", 6, 2)
+calcular("restar", 2, 54)
 calcular("multiplicar", 5, 6)
-calcular("dividir", 1, 1)
+calcular("dividir", 5, 5)
